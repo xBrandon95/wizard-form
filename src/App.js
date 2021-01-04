@@ -11,7 +11,6 @@ function App() {
     name: "",
     surname: "",
     email: "",
-    count: "",
     phone: "",
   });
 
